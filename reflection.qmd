@@ -1,0 +1,14 @@
+---
+title: "Reflection on the Use of GenAI"
+format:
+  html:
+    theme: slate
+    css: styles.css
+---
+
+
+Generative AI has been a fascinating and helpful tool in my work. At first, I was skeptical about relying on technology for creative or analytical tasks, but I’ve come to appreciate how much it can assist in simplifying complex processes. Whether it’s drafting ideas, analyzing data, or brainstorming solutions, AI has made tasks faster and more efficient, freeing up time for me to focus on deeper thinking and refining outputs.
+
+That said, using AI has also taught me the importance of balance. While it can be incredibly smart and resourceful, it lacks the human touch—context, creativity, and empathy—that often makes ideas meaningful. I’ve learned to treat it as a helpful partner rather than a replacement for critical thinking.
+
+Generative AI has expanded how I approach problems and creativity. It’s a tool that, when used responsibly, complements my efforts and enhances my capacity to grow and innovate.

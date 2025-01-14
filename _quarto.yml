@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kenix's Website"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: My Project
+        href: project.qmd
+      - text: About Me
+        href: about.qmd
+      - text: Reflection
+        href: reflection.qmd
+format:
+  html:
+    theme: styles.css

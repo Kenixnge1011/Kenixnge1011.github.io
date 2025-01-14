@@ -1,0 +1,38 @@
+---
+title: "My Projects"
+format:
+  html:
+    theme: slate 
+    css: styles.css
+---
+
+
+Here are some of the key projects I’ve worked on:
+
+---
+
+## **Car Price Analysis**
+- **Language**: Python  
+- **Details**: Developed a graphic user interface (GUI) using Tkinter for car price analysis.  
+- Utilized:
+  - **Data Cleaning**: Processed and analyzed raw data.
+  - **Pandas**: Consolidated findings and created visual illustrations.
+
+---
+
+## **Food Database Management System**
+- **Language**: C  
+- **Details**: Built a database management system for food items.
+  - Implemented a linked list data structure.
+  - Added an **INSERT** feature for user commands to input new food items.
+
+---
+
+## **Sustainability Metrics**
+- **Tools**: Excel and Secondary Research  
+- **Details**: Designed sustainability metrics to evaluate carbon emissions in production processes.
+  - Conducted research and analyzed data to derive actionable insights.
+
+---
+
+These projects highlight my expertise in **programming**, **data analysis**, and **problem-solving** to create innovative solutions.

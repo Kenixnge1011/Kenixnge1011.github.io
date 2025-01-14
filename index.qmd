@@ -1,0 +1,51 @@
+---
+title: "Welcome to My Website!"
+format:
+  html:
+    theme: slate 
+    css: styles.css
+---
+
+Hello! My name is **Kenix**, and I am currently an undergraduate student at **Singapore Institute of Technology**, specializing in **Financial Technology**. I am an independent and self-motivated individual eager to contribute to **innovation** and **problem-solving** in the tech and business world.
+
+---
+
+## **About Me**
+  
+I am a socially-driven entrepreneur passionate about conducting business with purpose and impact. My journey began with a focus on social entrepreneurship, combining profit with meaningful contributions to society. Over time, I discovered a strong interest in the finance and investment sectors, particularly in ESG (Environmental, Social, and Governance) investments.
+
+This interest led me to explore stock investments, where I developed a passion for analyzing trends and making data-driven decisions. My experiences have shaped my ambition to merge entrepreneurial values with data analysis to create innovative, impactful solutions in the financial landscape.
+
+---
+
+**Here’s a glimpse into my life**:
+
+### **My Picture**
+![My Picture](/img/kenixface.jpg){.profile-picture}
+
+---
+
+### **My Video**
+<video class="custom-video" controls>
+  <source src="/img/taiwantt.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## **My Travels**
+I also **love traveling**! One of my favorite trips was to **Taipei**, where I enjoyed exploring the city and its vibrant culture. Here's a picture of an adorable cat I saw during my travels:
+
+![Cat Dressed as a Deer](/img/catdeer.jpg){.cat-picture}
+
+---
+
+## **Contact Me**
+
+Feel free to connect with me:
+
+- **Email**: <a href="mailto:kenixnge7289@gmail.com" style="color: black;">kenixnge7289@gmail.com</a>
+
+- **LinkedIn**: <a href="https://www.linkedin.com/in/kenix-nge" style="color: black;">linkedin.com/in/kenix-nge</a>
+
+I’d love to hear from you and share more about my journey and experiences.

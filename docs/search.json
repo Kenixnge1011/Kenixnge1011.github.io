@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website!",
+    "section": "",
+    "text": "Hello! My name is Kenix, and I am currently an undergraduate student at Singapore Institute of Technology, specializing in Financial Technology. I am an independent and self-motivated individual eager to contribute to innovation and problem-solving in the tech and business world."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Website!",
+    "section": "About Me",
+    "text": "About Me\nI am a socially-driven entrepreneur passionate about conducting business with purpose and impact. My journey began with a focus on social entrepreneurship, combining profit with meaningful contributions to society. Over time, I discovered a strong interest in the finance and investment sectors, particularly in ESG (Environmental, Social, and Governance) investments.\nThis interest led me to explore stock investments, where I developed a passion for analyzing trends and making data-driven decisions. My experiences have shaped my ambition to merge entrepreneurial values with data analysis to create innovative, impactful solutions in the financial landscape.\n\nHere’s a glimpse into my life:\n\nMy Picture\n\n\n\nMy Picture\n\n\n\n\n\nMy Video\n\n\nYour browser does not support the video tag."
+  },
+  {
+    "objectID": "index.html#my-travels",
+    "href": "index.html#my-travels",
+    "title": "Welcome to My Website!",
+    "section": "My Travels",
+    "text": "My Travels\nI also love traveling! One of my favorite trips was to Taipei, where I enjoyed exploring the city and its vibrant culture. Here’s a picture of an adorable cat I saw during my travels:\n\n\n\nCat Dressed as a Deer"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Welcome to My Website!",
+    "section": "Contact Me",
+    "text": "Contact Me\nFeel free to connect with me:\n\nEmail: kenixnge7289@gmail.com\nLinkedIn: linkedin.com/in/kenix-nge\n\nI’d love to hear from you and share more about my journey and experiences."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "Generative AI has been a fascinating and helpful tool in my work. At first, I was skeptical about relying on technology for creative or analytical tasks, but I’ve come to appreciate how much it can assist in simplifying complex processes. Whether it’s drafting ideas, analyzing data, or brainstorming solutions, AI has made tasks faster and more efficient, freeing up time for me to focus on deeper thinking and refining outputs.\nThat said, using AI has also taught me the importance of balance. While it can be incredibly smart and resourceful, it lacks the human touch—context, creativity, and empathy—that often makes ideas meaningful. I’ve learned to treat it as a helpful partner rather than a replacement for critical thinking.\nGenerative AI has expanded how I approach problems and creativity. It’s a tool that, when used responsibly, complements my efforts and enhances my capacity to grow and innovate."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Who Am I!",
+    "section": "",
+    "text": "About Me\nApart from my academic and professional life, I have a passion for:\n\nBungee Jumping: I enjoy the adrenaline rush and challenging my fears.\nIce Skating: A calming yet exciting hobby that keeps me active.\nKorean Dramas and K-Pop: My go-to for relaxation and inspiration. Check out this amazing video featuring NCT: Watch Here: youtube.com/watch?v=B1qq8IvzSz4 .\nTraveling: I love exploring new places! My favorite destination so far is Taipei, a city full of culture, amazing food, and unique experiences.\n\nI also adore animals, especially cats. Their playful and curious nature brings a lot of joy to my life!\n\n\n\n\nDogs have always been a source of comfort and joy in my life. Their loyalty, playful energy, and companionship inspire me every day. Whether it’s going for walks, playing fetch, or simply enjoying their calming presence, dogs bring out the best in me.\nCaring for dogs has taught me patience, empathy, and the value of unconditional love. They remind me to find joy in the little things and to approach life with enthusiasm. For me, dogs aren’t just pets—they’re family."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Here are some of the key projects I’ve worked on:"
+  },
+  {
+    "objectID": "project.html#car-price-analysis",
+    "href": "project.html#car-price-analysis",
+    "title": "My Projects",
+    "section": "Car Price Analysis",
+    "text": "Car Price Analysis\n\nLanguage: Python\n\nDetails: Developed a graphic user interface (GUI) using Tkinter for car price analysis.\n\nUtilized:\n\nData Cleaning: Processed and analyzed raw data.\nPandas: Consolidated findings and created visual illustrations."
+  },
+  {
+    "objectID": "project.html#food-database-management-system",
+    "href": "project.html#food-database-management-system",
+    "title": "My Projects",
+    "section": "Food Database Management System",
+    "text": "Food Database Management System\n\nLanguage: C\n\nDetails: Built a database management system for food items.\n\nImplemented a linked list data structure.\nAdded an INSERT feature for user commands to input new food items."
+  },
+  {
+    "objectID": "project.html#sustainability-metrics",
+    "href": "project.html#sustainability-metrics",
+    "title": "My Projects",
+    "section": "Sustainability Metrics",
+    "text": "Sustainability Metrics\n\nTools: Excel and Secondary Research\n\nDetails: Designed sustainability metrics to evaluate carbon emissions in production processes.\n\nConducted research and analyzed data to derive actionable insights.\n\n\n\nThese projects highlight my expertise in programming, data analysis, and problem-solving to create innovative solutions."
+  }
+]

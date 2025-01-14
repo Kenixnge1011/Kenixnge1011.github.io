@@ -1,0 +1,30 @@
+---
+title: "Who Am I!"
+format:
+  html:
+    theme: slate 
+    css: styles.css
+---
+# About Me
+
+Apart from my academic and professional life, I have a passion for:
+
+- **Bungee Jumping**: I enjoy the adrenaline rush and challenging my fears.
+- **Ice Skating**: A calming yet exciting hobby that keeps me active.
+- **Korean Dramas and K-Pop**: My go-to for relaxation and inspiration. Check out this amazing video featuring **NCT**: **Watch Here**:  <a href="https://www.youtube.com/watch?v=B1qq8IvzSz4" style="color: black;">youtube.com/watch?v=B1qq8IvzSz4 </a>.
+- **Traveling**: I love exploring new places! My favorite destination so far is **Taipei**, a city full of culture, amazing food, and unique experiences.
+
+
+I also adore animals, especially cats. Their playful and curious nature brings a lot of joy to my life!
+
+
+
+---
+
+::: {style="float:left; position: relative; top: 0px"}
+![](img/dog.jpg){height="150px" style="margin-right: 15px; align: left"}
+:::
+
+Dogs have always been a source of comfort and joy in my life. Their loyalty, playful energy, and companionship inspire me every day. Whether it's going for walks, playing fetch, or simply enjoying their calming presence, dogs bring out the best in me.
+
+Caring for dogs has taught me patience, empathy, and the value of unconditional love. They remind me to find joy in the little things and to approach life with enthusiasm. For me, dogs aren’t just pets—they’re family.
